@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom"
+import { Link } from "react-router-dom";
 
 function Transaction({ transaction }) {
-    return (
-        
-    )
+  return <h1>Hello</h1>;
 }
+
+export default Transaction
